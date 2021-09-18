@@ -1,0 +1,110 @@
+body,html,main{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+main .container{
+    width: 30vw;
+    height: 30vh;
+    background-color: hsl(0, 0%, 77%);
+    border-radius: 10px;
+    font-family: 'Segoe UI', sans-serif;
+    
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    /* Retira a seleção dos textos 
+        e também dos elementos */
+   
+}
+
+main .container .nome-banco{
+
+}
+
+main .container .nome-banco p{
+    color: rgb(255, 255, 255);
+    font-size: 1.6rem;
+    font-weight: 600;
+    margin-left: .4rem;
+}
+
+main .container .container-laranja{
+    width: 10vw;
+    height: 16vh;
+    margin: auto;
+    padding: 1.2rem;
+    background-color: hsl(34, 100%, 50%);
+    border-radius: .8rem;
+    transform: rotate(70deg); 
+    
+}
+
+main .container .container-laranja .container-azul{
+    margin: auto;
+    width: 80px;
+    height: 80px;
+    background-color: hsl(240, 100%, 50%);
+    border-radius: 10px;
+    transform: rotate(-70deg); 
+
+
+}
+main .container .container-laranja .container-azul p{
+    color: yellow;
+    font-size: 2rem;
+    height: 70px;
+    font-weight: 700;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+  
+}
+main .container .container-laranja .estrelas{
+    transform: rotate(-70deg);
+    position: relative;
+    width: 170px;
+    margin-top: 1.2rem;
+    letter-spacing: 4px;
+    font-size: 1.4rem;
+    top: -14px;
+    color: white;
+    text-shadow: 3px 4px 4px  hsl(0, 0%, 20%);
+}
+
+main .container .container-laranja .numeros{
+    transform: rotate(-70deg);
+    width: 30vw;
+    height: 24vh;
+    color: hsl(0, 0%, 22%);
+    position: relative;
+    top: -150px;
+    letter-spacing: 8px;
+    font-weight: 500;
+}
+main .container .nome-cliente{
+    height: 8vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+    color: hsl(0, 0%, 22%);
+    
+}
+main .container .nome-cliente .cliente{
+    letter-spacing: 4px;
+    font-weight: 500;
+}
+main .container .nome-cliente .visa{
+    background-color: hsl(0, 0%, 100%);
+    text-align: center;
+    font-size: 1.4rem;
+    font-weight: 800;
+    color:hsl(240, 100%, 50%);
+    padding: .2rem;
+}
