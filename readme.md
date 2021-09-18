@@ -6,7 +6,7 @@
 
 <br>
 
-<img src= "https://github.com/Bruno-Luna/object-challenge/blob/master/cart%C3%A3o-ita%C3%BA/assets/screenshot/cart%C3%A3o-itau.PNG" min-width="300px" max-width="500px" width="400px" align="left" alt="Cartão-itaú">
+<img src= "https://github.com/Bruno-Luna/object-challenge/blob/master/cart%C3%A3o-ita%C3%BA/assets/screenshot/cart%C3%A3o-itau.PNG" min-width="300px" max-width="900px" align="left" alt="Cartão-itaú">
 
 <br>
 
