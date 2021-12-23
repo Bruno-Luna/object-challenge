@@ -6,7 +6,7 @@
 
 <br>
 
-<img src= "https://github.com/Bruno-Luna/object-challenge/blob/master/cart%C3%A3o-ita%C3%BA/assets/screenshot/cart%C3%A3o-itau.PNG" min-width="300px" max-width="900px" align="left" alt="Cartão-itaú">
+<img src= "https://github.com/Bruno-Luna/object-challenge/blob/master/cart%C3%A3o-ita%C3%BA/assets/screenshot/cart%C3%A3o-itau.PNG" align="left" alt="Cartão-itaú">
 
 <p align= "left">
     <br>
@@ -17,7 +17,7 @@
 
 <h2> Desafio 2: Tabuleiro</h2>
 
-<img src= "https://github.com/Bruno-Luna/object-challenge/blob/master/tabuleiro/assets/screenshots/tabuleiro.PNG">
+<img src= "https://github.com/Bruno-Luna/object-challenge/blob/master/tabuleiro/assets/screenshots/tabuleiro.PNG" alt="Tabuleiro">
 
 <p align= "left">
     <br>
